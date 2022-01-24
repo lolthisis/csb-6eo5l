@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://lolthisis.github.io/csb-6eo5l/static/css/main.57242a17.chunk.css",
+    "main.js": "https://lolthisis.github.io/csb-6eo5l/static/js/main.1772f080.chunk.js",
+    "main.js.map": "https://lolthisis.github.io/csb-6eo5l/static/js/main.1772f080.chunk.js.map",
+    "runtime-main.js": "https://lolthisis.github.io/csb-6eo5l/static/js/runtime-main.686c2588.js",
+    "runtime-main.js.map": "https://lolthisis.github.io/csb-6eo5l/static/js/runtime-main.686c2588.js.map",
+    "static/js/2.586f8996.chunk.js": "https://lolthisis.github.io/csb-6eo5l/static/js/2.586f8996.chunk.js",
+    "static/js/2.586f8996.chunk.js.map": "https://lolthisis.github.io/csb-6eo5l/static/js/2.586f8996.chunk.js.map",
+    "index.html": "https://lolthisis.github.io/csb-6eo5l/index.html",
+    "precache-manifest.1ef796d2494a020d98fd60fd3bf15a37.js": "https://lolthisis.github.io/csb-6eo5l/precache-manifest.1ef796d2494a020d98fd60fd3bf15a37.js",
+    "service-worker.js": "https://lolthisis.github.io/csb-6eo5l/service-worker.js",
+    "static/css/main.57242a17.chunk.css.map": "https://lolthisis.github.io/csb-6eo5l/static/css/main.57242a17.chunk.css.map",
+    "static/js/2.586f8996.chunk.js.LICENSE.txt": "https://lolthisis.github.io/csb-6eo5l/static/js/2.586f8996.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.686c2588.js",
+    "static/js/2.586f8996.chunk.js",
+    "static/css/main.57242a17.chunk.css",
+    "static/js/main.1772f080.chunk.js"
+  ]
+}
